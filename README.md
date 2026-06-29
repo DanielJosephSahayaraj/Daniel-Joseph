@@ -1,4 +1,4 @@
-# Daniel-Joseph
+
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel%20Joseph&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%26%20Data%20Engineer&descAlignY=62&descSize=16)
