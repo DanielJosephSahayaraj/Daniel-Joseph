@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel%20Joseph&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%26%20Data%20Engineer&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Agentic+RAG+Systems+with+Claude+%26+LangGraph;AWS+Certified+Solutions+Architect;4%2B+Years+in+Cloud-Native+Data+Engineering;Turning+Regulatory+Chaos+into+Compliant+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FLLM+Engineer+%7C+Agentic+RAG+%7C+LangGraph;AWS+Certified+Solutions+Architect;NHS+Senior+Intelligence+Analyst;MSc+Data+Science+%26+Analytics)](https://git.io/typing-svg)
 
 </div>
 
@@ -96,20 +96,17 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/danieljosephsr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danieljosephsr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/DanielJosephSahayaraj">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DanielJosephSahayaraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/danieljosephsr">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljosephsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/DanielJosephSahayaraj">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJosephSahayaraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
-<img src="https://streak-stats.demolab.com?user=danieljosephsr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=DanielJosephSahayaraj&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danieljosephsr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielJosephSahayaraj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=danieljosephsr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 
 </div>
 
@@ -210,11 +207,11 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-joseph-ai-engineer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:djosephsahayaraj@gmail.com)
 [![Location](https://img.shields.io/badge/London%2C_UK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
 
-![Profile Views](https://komarev.com/ghpvc/?username=danieljosephsr&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=DanielJosephSahayaraj&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
