@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel%20Joseph&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%26%20Data%20Engineer&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daniel%20Joseph&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20ML%20Engineer%20%7C%20GenAI%20and%20Data%20Engineer&descAlignY=62&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FLLM+Engineer+%7C+Agentic+RAG+%7C+LangGraph;AWS+Certified+Solutions+Architect;NHS+Senior+Intelligence+Analyst;MSc+Data+Science+%26+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FLLM+Engineer+%7C+Agentic+RAG+%7C+LangGraph;AWS+Certified+Solutions+Architect;NHS+Senior+Intelligence+Analyst;MSc+Data+Science+and+Analytics)](https://git.io/typing-svg)
 
 </div>
 
@@ -108,7 +108,6 @@ print(me.motto())
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielJosephSahayaraj&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
 
-</div>
 
 ## 💼 Work Experience
 
